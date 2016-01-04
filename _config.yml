@@ -1,6 +1,6 @@
 name: ClimateChange
 favicon: null
-layout_spectrum: 0.22353637591004372
+layout_spectrum: 1
 typography_spectrum: 0.5238178393337876
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.5275370406452566
-  lightness: 0.644274472957477
-  saturation: 0.926618336699903
-  rhythmicContrast: 0.0368968949187547
+  lightness: 0.3125
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
